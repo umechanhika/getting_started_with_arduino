@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
   digitalWrite(LED, HIGH); // LEDを付ける
-  delay(2000); // 2秒待つ
+  delay(1000); // 1秒待つ
   digitalWrite(LED, LOW); // LEDを消す
-  delay(2000); // 2秒待つ
+  delay(1000); // 1秒待つ
 }
